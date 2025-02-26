@@ -497,8 +497,8 @@
         "features": {},
         "taxAssessment": {},
         "id": "5509-Roanwood,-San-Antonio,-TX-78244",
-        "longitude": -98.349937,
-        "latitude": 29.4773
+        "longitude": -98.349687,
+        "latitude": 29.477359
     },
     {
         "addressLine1": "5528 Lochmoor",
@@ -550,8 +550,8 @@
         "features": {},
         "taxAssessment": {},
         "id": "5721-Lochmoor,-San-Antonio,-TX-78244",
-        "longitude": -98.350807,
-        "latitude": 29.479965
+        "longitude": -98.350547,
+        "latitude": 29.476801
     },
     {
         "addressLine1": "5519 Lochmoor",
@@ -611,7 +611,7 @@
         "zipCode": "78244",
         "formattedAddress": "5512 Lochmoor, San Antonio, TX 78244",
         "county": "Bexar",
-        "propertyType": "Duplex-Triplex",
+        "propertyType": "Apartment",
         "bedrooms": 2,
         "bathrooms": 2,
         "squareFootage": 912,
